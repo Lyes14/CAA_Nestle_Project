@@ -1,0 +1,8 @@
+google-cloud-bigquery
+google-cloud-texttospeech
+openai==0.28
+Flask
+requests
+numpy
+pandas
+db-dtypes
