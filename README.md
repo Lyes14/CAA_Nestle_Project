@@ -40,9 +40,13 @@ This guide will walk you through the steps required to deploy an IoT application
 
 ### Preliminary Step: Creating a Dataset and Table in BigQuery
 
-In a Google Cloud project, go to BigQuery, then create a table by clicking on "Add". Here is an example: ![Creating Table in BigQuery](Images/Table.png)
+In a Google Cloud project, go to BigQuery, then create a table by clicking on "Add". Here is an example: 
 
-Next, define the schema like this: ![Scheme](Images/Scheme.png)
+![Creating Table in BigQuery](Images/Table.png)
+
+Next, define the schema like this: 
+
+![Scheme](Images/Scheme.png)
 
 ### Deployment Steps
 
