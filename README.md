@@ -11,7 +11,13 @@
 ## 🚧   Project Description  
 Our project aims to develop an integrated indoor/outdoor weather monitoring system using M5Stack IoT devices and sensors, complemented by a cloud-based dashboard. By leveraging the capabilities of these devices and cloud services, we aim to provide users with comprehensive weather data and alerts, empowering them to make informed decisions and stay prepared for changing weather conditions.
 
-Link to the streamlit app : https://frontend-app-vm2g7tx3va-oa.a.run.app/
+Useful links:
+
+URL of the streamlit app : https://frontend-app-vm2g7tx3va-oa.a.run.app/
+
+URL of the youtube video : https://youtu.be/1upg-Ny6C_8
+
+URL of the repository : https://github.com/Lyes14/CAA_Nestle_Project
 
 ### 🔑 Key Components:
 
@@ -80,4 +86,4 @@ Congratulations! You can now start the device and it will begin sending data to 
 * Hamza Khalif : Backend implementation and Frontend cloud based dashboard
 
 ## ▶️   Video  
-Click 👉 [here](lien de la video) to see the video. 
+Click 👉 [here](https://youtu.be/1upg-Ny6C_8) to see the video. 
