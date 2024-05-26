@@ -33,17 +33,17 @@ You can access it by clicking [here](https://frontend-app-vm2g7tx3va-oa.a.run.ap
 * **Backend** : Python backend code to handle weather data by using Flask and Google Cloud BigQuery. It provides endpoints for fetching, storing, and processing weather information from different sources. The backend interacts with the OpenWeatherMap API to retrieve current weather data and forecast weather data based on latitude and longitude coordinates. It also integrates with Google Cloud BigQuery to store and retrieve historical weather records. This backend uses also OpenAi to implement a Text-to-Speech on the M5Stack.
 * **Frontend**: Python code to create an interactive dashboard and visualize weather data, historical data, and upcoming forecasts. The interface utilizes Streamlit for layout and displays weather data in the form of metrics,images and chart.
 
-## 🚀   Deployment 
-# IoT Application Deployment Guide with Backend on Google Cloud
+### 🚀   Deployment 
+### IoT Application Deployment Guide with Backend on Google Cloud
 
 This guide will walk you through the steps required to deploy an IoT application using Google Cloud, Streamlit, and M5Stack. You will start by creating a dataset and a table in Google Cloud BigQuery.
 
-## Preliminary Step: Creating a Dataset and Table in BigQuery
+### Preliminary Step: Creating a Dataset and Table in BigQuery
 
 In a Google Cloud project, go to BigQuery, then create a table by clicking on "Add". Here is an example: (screenshot to be added)
 Next, define the schema like this: (screenshot to be added)
 
-## Deployment Steps
+### Deployment Steps
 
 The deployment is separated into three stages: the backend app, the Streamlit app, and finally, installing the code on the M5Stack.
 
