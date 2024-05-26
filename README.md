@@ -10,7 +10,8 @@
 
 ## 🚧   Project Description  
 Our project aims to develop an integrated indoor/outdoor weather monitoring system using M5Stack IoT devices and sensors, complemented by a cloud-based dashboard. By leveraging the capabilities of these devices and cloud services, we aim to provide users with comprehensive weather data and alerts, empowering them to make informed decisions and stay prepared for changing weather conditions.
-Link to the streamlit app : (https://frontend-app-vm2g7tx3va-oa.a.run.app/)
+
+Link to the streamlit app : https://frontend-app-vm2g7tx3va-oa.a.run.app/
 
 ### 🔑 Key Components:
 
